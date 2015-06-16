@@ -1,3 +1,5 @@
 1) Making comments directly to the document
 
 2) Making comments using nano
+
+3) Making comments using github
